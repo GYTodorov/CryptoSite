@@ -1,3 +1,6 @@
+Create new springProject from https://start.spring.io/ empty one with the correct java version etc
+Add to the pom.xml my dependencies from my pom.xml 
+
 Create new schema in mysql and set it as default then execute the lines below (I named mine cryptosite)
 and make sure to update the application.properties to match your schema name along with your login information
 
